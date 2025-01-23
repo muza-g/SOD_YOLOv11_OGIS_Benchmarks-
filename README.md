@@ -16,7 +16,7 @@
 ### 2. **Setup Environment**
 Clone the repository and install necessary dependencies:
 ```bash
-git clone https://github.com/muza-g/SOD_YOLOv10_OGIS_Benchmarks.git
+git clone https://github.com/muza-g/SOD_YOLOv11_OGIS_Benchmarks-.git
 pip install pycocotools
 ```
 ### 3. **Evaluation Steps**
