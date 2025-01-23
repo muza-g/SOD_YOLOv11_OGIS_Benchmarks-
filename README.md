@@ -157,7 +157,7 @@ If you use this framework or dataset in your research, please cite this work:
 
 ```bibtex
 @article{yourpaper2025,
-  title={Transforming Small Object Detection in High-Resolution UAV Imagery: The Integration of YOLOv10 with Object Guided Inference Slicing (OGIS) on the VisDrone Dataset},
+  title={Improving Detection Accuracy and Efficiency: A Comprehensive Evaluation of YOLOv11 Integrated with the Object Guided Inference Slicing Framework on Small Object Detection Challenges},
   author={Your Name and Co-Authors},
   journal={Preprint},
   year={2025},
